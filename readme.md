@@ -1,6 +1,6 @@
 # Pixie
 
-Magisk module that provides Google Photos backup by spoofing device as Pixel XL.
+Magisk module that provides Unlimited GPhotos backup by spoofing device as Pixel XL.
 
 ## Features
 
